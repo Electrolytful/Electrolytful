@@ -2,7 +2,7 @@
 🔭Currently a Tech Trainee at La Fosse Academy. <br>🎓Attained a First Class degree in University. <br>📖Learning Node.js, Express.js, SQL, NoSQL and React.js.<br>🎥Ask me about Movies and Anime<br>🏋️Gym fanatic
 
 ## 🖥️ Website:
-[<img src="https://i.imgur.com/Q1VJ05x.png">](https://electrolytful.github.io)
+[<img src="https://i.imgur.com/Q1VJ05x.png" target="_blank">](https://electrolytful.github.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhan-002) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrolytful) 
