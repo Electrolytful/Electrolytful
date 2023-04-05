@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently a Tech Trainee at La Fosse Academy. <br>🎓Attained a First Class degree in University. <br>📖Learning Node.js, Express.js, SQL and React.js.<br>🎥Ask me about Movies and Anime<br>🏋️Gym fanatic
+🔭Currently a Tech Trainee at La Fosse Academy. <br>🎓Attained a First Class degree in University. <br>📖Learning Node.js, Express.js, SQL and React.js.<br>🎥Ask me about Movies and Anime<br>🏋️Love going gym
 
 ## 🖥️ Website:
 <a href="https://electrolytful.github.io" target="_blank"><img src="https://i.imgur.com/Q1VJ05x.png"></a>
