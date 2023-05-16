@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/followers/Electrolytful?color=blueviolet&logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/Electrolytful?color=blueviolet&logo=github&style=for-the-badge) ------ [![](https://visitcount.itsvg.in/api?id=Electrolytful&icon=5&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭Currently a Tech Trainee at La Fosse Academy. <br>🎓Attained a First Class degree in University. <br>📖Learning MongoDB, Express.js, React.js and Node.js.<br>🎮Ask me about Gaming and Anime🎥<br>🏋️Regular gymgoer
+🔭Currently a Tech Trainee at La Fosse Academy. <br>🎓Attained a First Class degree in University. <br>📖Learning Next.js<br>🎮Ask me about Gaming and Anime🎥<br>🏋️Regular gymgoer
 
 ## 🖥️ Website:
 <a href="https://electrolytful.github.io" target="_blank"><img src="https://i.imgur.com/Q1VJ05x.png"></a>
