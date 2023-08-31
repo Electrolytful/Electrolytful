@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/followers/Electrolytful?color=blueviolet&logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/Electrolytful?color=blueviolet&logo=github&style=for-the-badge) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FElectrolytful&label=Profile%20Views&countColor=%23697689)
 # 💫 About Me:
-🔭Completed Fullstack Web Development Course at La Fosse. Currently searching for a fullstack, frontend or backend web developer position.<br>🎓Attained a First Class degree in University. <br>📖Learning Next.js<br>🎮Ask me about Gaming and Anime🎥<br>🏋️Regular gymgoer
+🔭Completed Fullstack Web Development Course at La Fosse. Currently searching for a fullstack, frontend or backend web developer position.<br>🎓Attained a First Class degree in University. <br>📖Learning React.js<br>🎮Ask me about Gaming and Anime🎥<br>🏋️Regular gymgoer
 
 ## 🖥️ Website:
 <a href="https://electrolytful.github.io" target="_blank"><img src="https://i.imgur.com/Q1VJ05x.png"></a>
