@@ -3,7 +3,7 @@
 🔭Completed Fullstack Web Development Course at La Fosse. Currently searching for a Frontend Web Developer position.<br>🎓Attained a First Class degree in University. <br>📖Learning React.js<br>🎮Ask me about Gaming and Anime🎥<br>🏋️Regular gymgoer
 
 ## 🖥️ Website:
-<a href="https://electrolytful.github.io" target="_blank"><img src="https://i.imgur.com/Q1VJ05x.png"></a>
+<a href="https://erhanulusaldev.vercel.app" target="_blank"><img src="https://i.imgur.com/3dViOds.jpg"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhan-002) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/electrolytful) 
